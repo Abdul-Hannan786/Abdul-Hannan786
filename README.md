@@ -48,11 +48,11 @@
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Hannan786&show_icons=true&theme=github_dark" alt="Abdul-Hannan786" style="width: 430px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Hannan786&show_icons=true&theme=github_dark" alt="Abdul-Hannan786" style="width: 400px" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hannan786&theme=github-dark-blue" alt="Abdul-Hannan786" style="width: 455px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hannan786&theme=github-dark-blue" alt="Abdul-Hannan786" style="width: 425px" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 310px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 300px" />
 </p>
 
 
