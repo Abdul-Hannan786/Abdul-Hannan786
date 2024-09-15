@@ -1,4 +1,4 @@
-<img alt="Coding" style="border-radius: 16px;" src="./images/banner.gif">
+<img alt="Coding" style="border-radius: 16px;" src="./images/background.png">
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
 
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED FRONTEND DEVELOPER!</h3>
@@ -39,15 +39,21 @@
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,html" />
     <img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind" />
-	<img src="https://skillicons.dev/icons?i=bootstrap,react,ts" />
-	<img src="https://skillicons.dev/icons?i=vercel" />
-	<img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,ts" />
+    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 <hr>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Hannan786&show_icons=true&theme=github_dark" alt="Abdul-Hannan786">
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Hannan786&show_icons=true&theme=github_dark" alt="Abdul-Hannan786" style="width: 430px" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hannan786&theme=github-dark-blue" alt="Abdul-Hannan786" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" />
-</p>	
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hannan786&theme=github-dark-blue" alt="Abdul-Hannan786" style="width: 455px" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 350px" />
+</p>
+
+
+
