@@ -52,7 +52,7 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hannan786&theme=github-dark-blue" alt="Abdul-Hannan786" style="width: 455px" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 330px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 310px" />
 </p>
 
 
