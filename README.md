@@ -39,9 +39,9 @@
 <p align='center'>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,html" />
     <img src="https://skillicons.dev/icons?i=js,css,nextjs,tailwind" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,ts" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,vite,ts" />
     <img src="https://skillicons.dev/icons?i=vercel" />
-    <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=firebase,npm,postman" />
     <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,materialui" />
 </p>
 
