@@ -50,7 +50,7 @@
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Hannan786&show_icons=true&theme=github_dark" alt="Abdul-Hannan786" style="width: 400px" />
-  <img src="https://camo.githubusercontent.com/822ee8898f95347a3faf82f853f648c2dbd6158007fb1bd696ad30c699c01950/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416264756c2d48616e6e616e373836267468656d653d6769746875622d6461726b2d626c7565" alt="Abdul-Hannan786" style="width: 425px" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=Abdul-Hannan786&theme=github-dark-blue" alt="GitHub Streak" style="width: 425px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 300px;" />
 </p>
 
