@@ -1,7 +1,7 @@
 <img alt="Coding" style="border-radius: 16px;" src="./images/background.png">
 <h1 align="center">Hi 👋, I'm Abdul Hannan</h1>
 
-<h3 align="center" style="margin-top: 4px;">A PASSIONATED FRONTEND DEVELOPER!</h3>
+<h3 align="center" style="margin-top: 4px;">A PASSIONATED FULL STACK DEVELOPER!</h3>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
@@ -17,7 +17,7 @@
 
 - Explore all of my projects on **[my GitHub profile](https://github.com/Abdul-Hannan786)**.
 
-  | Currently Learning | NextJS, Firebase |
+  | Currently Learning | ExpressJS |
   | ------------------ | ---------------- |
 
 <hr>
@@ -28,8 +28,6 @@
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
 	<a href="https://www.instagram.com/abdulhannanhere_05/" target="blank" style="padding:8px"><img align="center"
 			src="https://skillicons.dev/icons?i=instagram" alt="Abdul-Hannan786" height="50" width="50" /></a>
-	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="Abdul-Hannan786" align="right" />
 </p>
 
 <hr>
@@ -53,5 +51,6 @@
    <img src="https://nirzak-streak-stats.vercel.app/?user=Abdul-Hannan786&theme=github-dark-blue" alt="GitHub Streak" style="width: 425px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 300px;" />
 </p>
+
 
 
