@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently a student at **Saylani Mass IT Training**
 
-- 💬 Feel free to ask me about **Frontend Development, React, or JavaScript**
+- 💬 Feel free to ask me about **Full Stack Development, React, or JavaScript**
 
 - 📫 How to reach me **abdulhannanhere@gmail.com**
 
@@ -51,6 +51,7 @@
    <img src="https://nirzak-streak-stats.vercel.app/?user=Abdul-Hannan786&theme=github-dark-blue" alt="GitHub Streak" style="width: 425px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Hannan786&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdul-Hannan786" style=" width: 300px;" />
 </p>
+
 
 
 
